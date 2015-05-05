@@ -1,0 +1,121 @@
+body{
+	font-family: tahoma;
+	font-size: 1.25em;
+	padding: 15px 5px;
+	max-width: 85%;
+	margin: 0 auto;
+}
+
+
+p{
+	margin: 25px 0;
+}
+
+
+h1{
+	text-align: center;
+	color: #475904;
+}
+
+body h2{
+	color: #134508;
+	font-size: 1.25em;
+}
+
+h3{
+	color: white;
+}
+
+ol {
+	text-align: left;
+	padding: 10px 50px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+li {
+	font-size: 0.90em;
+	line-height: 25px;
+	text-align: left;
+	margin: 0px 45px;
+}
+
+
+a:link {
+	text-decoration: none;
+}
+
+
+a:hover{
+	font-size: 1.05em;
+	text-decoration: underline;
+}
+dl {
+	margin: 0 1.5em;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 0.85em;
+    text-decoration: underline;
+  }
+
+ dd {
+    margin: 0;
+    padding: 0 0 0.5em 2em;
+ }
+
+.table-of-contents{
+	background-color: #CEF4CF;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 10px auto;
+}
+
+
+.lesson {
+	padding: 10px;
+	margin: 10px auto;
+	background-color: #4E6B13;
+	border-radius: 17px;
+}
+
+
+.concept {
+	padding: 4px;
+	margin: 10px;
+	background-color: #CEF4CF;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title {
+	text-align: center;
+	color: #134508;
+	font-size: 28px;
+	margin: 8px;
+	font-weight: bolder;
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 20px;
+}
+
+.code {
+    font-family: courier;
+    background-color: #98B5A1;
+    padding: 2px 4px;
+    font-weight: bold;
+}
+
+.python_script {
+    font-family: Courier;
+    background-color: #98B5A1;
+    padding: 2px 4px;
+    display: inline-block;
+}
+
+.indent {
+    margin-left: 38px;
+}
